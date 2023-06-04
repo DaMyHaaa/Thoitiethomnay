@@ -204,7 +204,7 @@ li {
     height: 200px;
     border-radius: 50px;
     margin-left: 55%;
-    margin-top: -200px;
+    margin-top: -150px;
 }
     .icon-uv {
     width: 330px;
@@ -332,7 +332,7 @@ li {
  .ms {
     font-weight: bold;
     font-family: Roboto;
-    font-size: 40px;
+    font-size: 50px;
     margin: -30px 0;
  }
 
@@ -429,7 +429,7 @@ border-radius: 50px;
     border-radius: 50px;
 }
 #rain {
-    margin-top: 30px;
+    margin-top: 50px;
     margin-left: 15px;
 }
 .qqq {
