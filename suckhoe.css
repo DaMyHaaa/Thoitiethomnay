@@ -91,7 +91,10 @@ p {
 /* Column layout 1 */
 .column-layout-1 {
     margin-top: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
     padding-top: 20px;
+    padding-bottom: 20px;
     background: linear-gradient(-45deg, #97ffe3, #7eeffa, #b9d3f0, #a7cafe);
     display: flex;
 }
@@ -99,13 +102,13 @@ p {
     padding: 0 16px;
 }
 .sidebar-one1 {
-    flex: 2;
+    flex: 1;
 }
 .main-column1 {
-    flex: 2.2;
+    flex: 1;
 }
 .sidebar-two1 {
-    flex: 1.5;
+    flex: 1;
 }
 
 
