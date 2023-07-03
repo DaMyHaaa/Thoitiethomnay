@@ -187,7 +187,7 @@ li {
     width: 250px;
     height: 200px;
     background-color: white;
-    margin-left: 60%;
+    margin-left: 50%;
     margin-top: -190px;
     }
     .thongtin {
@@ -557,13 +557,13 @@ border-radius: 50px;
 .tenapp {
     font-weight: bold;
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 22px;
     margin-top: -10px;
-    margin-left: 10px;
+    margin-left: 2px;
 }
 #app {
     margin-top: -15px;
-    margin-left: 30px;
+    margin-left: 25px;
 }
 
  /*----------CANH BAO----------*/
